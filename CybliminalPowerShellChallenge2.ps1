@@ -8,3 +8,4 @@ foreach($dest in $UpDownInput){
         Write-Host($dest + " is down at " + (Get-Date))
      }
 }
+#test
